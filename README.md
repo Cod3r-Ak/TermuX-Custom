@@ -16,11 +16,15 @@
 ## Description
 TermuX Custom is a GitHub repository designed to empower users to personalize their TermuX experience. With TermuX Custom, you can enhance your Termux interface with features like a customizable login screen, login sound effects, and the ability to change your shell name. The interactive terminal provides a dynamic environment for your TermuX sessions.
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/TermuX-Custom/count.svg) 
+
 ## Features
 - [x] Login Screen
 - [x] Login Sound Effect
 - [x] Customizable Shell Name
 - [x] Interactive Terminal
+- [X] Easy To Use
+- [X] Looks OverPowered
 ```
 These features enhance the TermuX interface, providing users with a personalized and dynamic experience for their TermuX sessions.
 ```
