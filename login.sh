@@ -18,7 +18,7 @@ cat <<LOGIN>bash.bashrc
 trap '' 2                                          
 echo -e "\e[1;32m
             ──▄▀▀▀▄───────────────
-  \033[33mLogin To Start TermuX Terminal\033[32m
+         \033[33mLogin To Start TermuX Terminal\033[32m
             ──█───█───────────────
             ─███████─────────▄▀▀▄─
             ░██─▀─██░░█▀█▀▀▀▀█░░█░
