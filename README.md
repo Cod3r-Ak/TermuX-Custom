@@ -55,16 +55,15 @@ To get started, simply follow the provided commands to update and upgrade your T
     bash setup.sh
     ```
 
-```
+
 ## Copyright Notice
 
 All content, including but not limited to code, documentation, and assets, within the TermuX Custom repository is protected under copyright law. This repository, authored by Akshat [Cod3r-Ak], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
 
 You are granted the right to use, modify, and distribute the contents of this repository for educational and non-commercial purposes. However, you must adhere to the following conditions:
-
+```
 1. You may not use the contents of this repository for illegal or unethical activities.
 2. You may not misrepresent the origin or authorship of the contents of this repository.
 3. You may not hold the author or contributors liable for any damages or legal issues arising from the use or misuse of the contents of this repository.
-
-By accessing or using the contents of this repository, you agree to abide by these terms and conditions.
 ```
+By accessing or using the contents of this repository, you agree to abide by these terms and conditions.
