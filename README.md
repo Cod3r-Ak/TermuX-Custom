@@ -14,7 +14,7 @@
 </p>
 
 ## Description
-Using this Repository, you can customize your TermuX interface! This repository enhances your Termux Interface.
+TermuX Custom is a GitHub repository designed to empower users to personalize their TermuX experience. With TermuX Custom, you can enhance your Termux interface with features like a customizable login screen, login sound effects, and the ability to change your shell name. The interactive terminal provides a dynamic environment for your TermuX sessions.
 
 ## Features
 - [x] Login Screen
@@ -23,37 +23,48 @@ Using this Repository, you can customize your TermuX interface! This repository 
 - [x] Interactive Terminal
 
 ## Getting Started
-To get started, follow these simple steps:
+To get started, simply follow the provided commands to update and upgrade your TermuX environment, clone the TermuX Custom repository, and execute the setup script to apply the customizations. This repository is intended for educational purposes and does not endorse any malicious activities.
 
-1. Update your package lists with the latest versions:
+[-] Update your package lists with the latest versions:
     ```
     apt update
     ```
 
-2. Upgrade installed packages to their latest versions:
+[-] Upgrade installed packages to their latest versions:
     ```
     apt upgrade
     ```
 
-3. Clone the TermuX Custom repository to your local machine:
+[-] Clone the TermuX Custom repository to your Termux:
     ```
     git clone https://github.com/Cod3r-Ak/TermuX-Custom
     ```
 
-4. Navigate to the cloned repository directory:
+[-] Navigate to the cloned repository directory:
     ```
     cd TermuX-Custom
     ```
 
-5. Add execute permissions to all files in the directory:
+[-] Add execute permissions to all files in the directory:
     ```
     chmod +x *
     ```
 
-6. Execute the setup script to apply customizations:
+[-] Execute the setup script to apply customizations:
     ```
     bash setup.sh
     ```
 
+```
 ## Copyright Notice
-This code is intended for educational purposes only and does not promote hacking. You are free to copy and modify this code without permission from the author.
+
+All content, including but not limited to code, documentation, and assets, within the TermuX Custom repository is protected under copyright law. This repository, authored by Akshat [Cod3r-Ak], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
+
+You are granted the right to use, modify, and distribute the contents of this repository for educational and non-commercial purposes. However, you must adhere to the following conditions:
+
+1. You may not use the contents of this repository for illegal or unethical activities.
+2. You may not misrepresent the origin or authorship of the contents of this repository.
+3. You may not hold the author or contributors liable for any damages or legal issues arising from the use or misuse of the contents of this repository.
+
+By accessing or using the contents of this repository, you agree to abide by these terms and conditions.
+```
