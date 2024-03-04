@@ -1,5 +1,19 @@
 # TermuX Custom
 
+<p align="center"> 
+  <img src="https://img.shields.io/github/stars/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/Cod3r-Ak/TermuX-Custom?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/Cod3r-Ak/TermuX-Custom?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields./Cod3r-Ak/TermuX-Custom?color=red&style=for-the-badgeio/github/issues/Cod3r-Ak/TermuX-Custom?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=blue"><br>
+  <img src="https://hits.dwyl.com/Cod3r-Ak/TermuX-Custom.svg" width="140" height="28">
+<br>
+<br>
+  <img src="https://img.shields.io/badge/Author-Akshat-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
+</p>
+
 ## Description
 Using this Repository, you can customize your TermuX interface! This repository enhances your Termux Interface.
 
