@@ -26,37 +26,31 @@ TermuX Custom is a GitHub repository designed to empower users to personalize th
 To get started, simply follow the provided commands to update and upgrade your TermuX environment, clone the TermuX Custom repository, and execute the setup script to apply the customizations. This repository is intended for educational purposes and does not endorse any malicious activities.
 
 [-] Update your package lists with the latest versions:
-
     ```
     apt update
     ```
 
 [-] Upgrade installed packages to their latest versions:
-
     ```
     apt upgrade
     ```
 
 [-] Clone the TermuX Custom repository to your Termux:
-
     ```
     git clone https://github.com/Cod3r-Ak/TermuX-Custom
     ```
 
 [-] Navigate to the cloned repository directory:
-  
     ```
     cd TermuX-Custom
     ```
 
 [-] Add execute permissions to all files in the directory:
-   
     ```
     chmod +x *
     ```
 
 [-] Execute the setup script to apply customizations:
-  
     ```
     bash setup.sh
     ```
