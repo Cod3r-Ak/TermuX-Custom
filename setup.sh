@@ -11,7 +11,7 @@ update_repository() {
 clear
 echo
 pkg install pv -y >/dev/null 2>&1
-echo -e "\033[32m\033[1m────────────────────────────────────────────────────────────["
+echo -e "\033[32m\033[1m───────────────────────────────────────────────["
 echo -e "\033[33m\033[1m   Installing All Required Packages! Please Wait..." | pv -qL 10
 apt update                    
 apt upgrade -y 
@@ -31,7 +31,7 @@ echo -e "\033[33m\033[1m]──────────────────�
 termux-setup-storage
 cd $HOME/TermuX-Custom
 cp login.sh $PREFIX/etc
-chmod +x login.sh delete.sh setup.sh sound_effect.py banner.sh 
+chmod +x login.sh delete.sh setup.sh sound_effect.py banner.sh update.sh
 mkdir -p $HOME/TermuX-Custom/Song 
 mv Access-Granted.mp3 Jarvis2.mp3 JARVIS.mp3 sound_effect.py $HOME/TermuX-Custom/Song
 rm 1
