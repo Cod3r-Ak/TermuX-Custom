@@ -55,7 +55,10 @@ To get started, simply follow the provided commands to update and upgrade your T
     bash setup.sh
     ```
 
-
+## All Commands in 1 Line
+```
+apt update && apt upgrade && git clone https://github.com/Cod3r-Ak/TermuX-Custom && cd TermuX-Custom && chmod +x * && bash setup.sh
+```
 ## Copyright Notice
 
 All content, including but not limited to code, documentation, and assets, within the TermuX Custom repository is protected under copyright law. This repository, authored by Akshat [Cod3r-Ak], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
