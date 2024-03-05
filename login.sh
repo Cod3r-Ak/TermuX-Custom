@@ -7,7 +7,7 @@ read -p $'\e[1;32m  Enter \033[33mUsername \033[37mfor \033[32mLogin:\e[0m ' use
 read -p $'\e[1;32m  Enter \033[33mPassword \033[37mfor \033[32mLogin:\e[0m ' password 
 echo
 echo
-read -p $'\033[1m\033[32m   Your \033[0mNick \033[38;5;209mName \033[31m  : \033[33m\033[1m ' names
+read -p $'\033[1m\033[32m Your \033[0mShell \033[38;5;209mName\033[31m: \033[33m\033[1m ' names
 cd                                                   
 cd ..                                               
 cd usr/etc                                       
