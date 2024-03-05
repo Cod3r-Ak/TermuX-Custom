@@ -41,7 +41,12 @@ To get started, simply follow the provided commands to update and upgrade your T
     apt upgrade
     ```
 
-[-] Clone the TermuX Custom repository to your Termux:
+[-] Install Github in Termux
+    ```
+    pkg install git
+    ```
+    
+[-] Clone the TermuX upgrade repository to your Termux:
     ```
     git clone https://github.com/Cod3r-Ak/TermuX-Custom
     ```
@@ -63,7 +68,7 @@ To get started, simply follow the provided commands to update and upgrade your T
 
 ## All Commands in Single Line
 ```
-apt update && apt upgrade && git clone https://github.com/Cod3r-Ak/TermuX-Custom && cd TermuX-Custom && chmod +x * && bash setup.sh
+apt update && apt upgrade && pkg install git && git clone https://github.com/Cod3r-Ak/TermuX-Custom && cd TermuX-Custom && chmod +x * && bash setup.sh 
 ```
 ## Copyright Notice
 
