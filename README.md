@@ -32,6 +32,11 @@ TermuX Custom is a GitHub repository designed to empower users to personalize th
 ```
 These features enhance the TermuX interface, providing users with a personalized and dynamic experience for their TermuX sessions.
 ```
+## Screenshots:
+![photo](https://raw.githubusercontent.com/Cyb3r-Ak/TermuX-Custom/main/.img/IMG_20240306_233924.jpg)
+![photo](https://raw.githubusercontent.com/Cyb3r-Ak/TermuX-Custom/main/.img/IMG_20240306_233903.jpg)
+![photo](https://raw.githubusercontent.com/Cyb3r-Ak/TermuX-Custom/main/.img/IMG_20240306_233834.jpg)
+
 ## Getting Started
 To get started, simply follow the provided commands to update and upgrade your TermuX environment, clone the TermuX Custom repository, and execute the setup script to apply the customizations. This repository is intended for educational purposes and does not endorse any malicious activities.
 
