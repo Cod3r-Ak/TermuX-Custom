@@ -29,7 +29,7 @@ You can install termux from F-Droid. <br />
 > I don't recommend you to Install Termux from **Google Play Store** as it is now UNMAINTAINED
 ## Screenshorts
 ### Login Screen
-![login](.img/IMG_20240306_233924.jpg)
+![login](.img/IMG_20240307_234826.jpg)
 ### Booting Screen
 ![sound-effect](.img/IMG_20240306_233903.jpg)
 ### Termux Terminal
