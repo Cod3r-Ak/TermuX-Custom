@@ -3,9 +3,7 @@
 <p align="center"> 
   <img src="https://img.shields.io/github/stars/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=orange">
   <img src="https://img.shields.io/github/forks/Cod3r-Ak/TermuX-Custom?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/Cod3r-Ak/TermuX-Custom?color=cyan&style=for-the-badge&color=purple">
   <img src="https://img.shields.io/github/license/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=blue"><br>
-  <img src="https://hits.dwyl.com/Cod3r-Ak/TermuX-Custom.svg" width="140" height="28">
 <br>
 <br>
   <img src="https://img.shields.io/badge/Author-Akshat-purple?style=flat-square">
