@@ -28,11 +28,11 @@ You can install termux from F-Droid. <br />
 - Download from [F-Droid](https://f-droid.org/packages/com.termux/) <br />
 > I don't recommend you to Install Termux from **Google Play Store** as it is now UNMAINTAINED
 ## Screenshorts
-#### Login Screen
+### Login Screen
 ![login](.img/IMG_20240306_233924.jpg)
-#### Booting Screen
+### Booting Screen
 ![sound-effect](.img/IMG_20240306_233903.jpg)
-#### Termux Terminal
+### Termux Terminal
 ![termux-terminal](.img/IMG_20240306_233834.jpg)
 
 ## Features Of TermuX-Custom
@@ -41,6 +41,8 @@ You can install termux from F-Droid. <br />
 - [x] Customizable Shell Name
 - [x] Interactive Terminal
 - [X] Easy To Use
+- [X] Easy To Install
+- [X] In Terminal Clock
 - [X] Looks OverPowered
 > These features enhance the TermuX interface, providing users with a personalized and dynamic experience for their TermuX sessions.
 
