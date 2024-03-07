@@ -33,7 +33,7 @@ You can install termux from F-Droid. <br />
 ### Booting Screen
 ![sound-effect](.img/IMG_20240306_233903.jpg)
 ### Termux Terminal
-![termux-terminal](.img/IMG_20240306_233834.jpg)
+![termux-terminal](.img/IMG_20240307_234741.jpg)
 
 ## Features Of TermuX-Custom
 - [x] Login Screen
