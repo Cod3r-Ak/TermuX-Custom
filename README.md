@@ -15,29 +15,35 @@
 TermuX Custom is a GitHub repository designed to empower users to personalize their TermuX experience. With TermuX Custom, you can enhance your Termux interface with features like a customizable login screen, login sound effects, and the ability to change your shell name. The interactive terminal provides a dynamic environment for your TermuX sessions.
 
 **Repository Views** ![Views](https://profile-counter.glitch.me/TermuX-Custom/count.svg) 
+> **Maintained?**: Yes, This repository is Maintained and You will get Updates Regularly!
 
-## Features
+# About Termux
+### What is termux?
+Termux is an *Android terminal emulator* and **Linux environment** app that works directly with **no rooting** or setup required. A minimal base system is installed automatically - additional packages are available using the *PKG/APT package manager*. Read More [Here](https://termux.com/)... 
+### How To install termux?
+
+You can install termux from F-Droid. <br />
+
+- Get it on [Github](https://github.com/termux/termux-app)
+- Download from [F-Droid](https://f-droid.org/packages/com.termux/) <br />
+> I don't recommend you to Install Termux from **Google Play Store** as it is now UNMAINTAINED
+
+## Features Of TermuX-Custom
 - [x] Login Screen
 - [x] Login Sound Effect
 - [x] Customizable Shell Name
 - [x] Interactive Terminal
 - [X] Easy To Use
 - [X] Looks OverPowered
-```
-These features enhance the TermuX interface, providing users with a personalized and dynamic experience for their TermuX sessions.
-```
+> These features enhance the TermuX interface, providing users with a personalized and dynamic experience for their TermuX sessions.
+
 
 ## Getting Started
 To get started, simply follow the provided commands to update and upgrade your TermuX environment, clone the TermuX Custom repository, and execute the setup script to apply the customizations. This repository is intended for educational purposes and does not endorse any malicious activities.
 
-[-] Update your package lists with the latest versions:
+[-] Update and Upgarde your package lists with to latest versions:
     ```
-    apt update
-    ```
-
-[-] Upgrade installed packages to their latest versions:
-    ```
-    apt upgrade
+    apt update && apt upgrade
     ```
 
 [-] Install Github in Termux
@@ -45,7 +51,7 @@ To get started, simply follow the provided commands to update and upgrade your T
     pkg install git
     ```
     
-[-] Clone the TermuX upgrade repository to your Termux:
+[-] Clone the TermuX-Custom6 repository in your Termux:
     ```
     git clone https://github.com/Cod3r-Ak/TermuX-Custom
     ```
