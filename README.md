@@ -26,8 +26,12 @@ You can install termux from F-Droid. <br />
 
 - Get it on [Github](https://github.com/termux/termux-app)
 - Download from [F-Droid](https://f-droid.org/packages/com.termux/) <br />
+
 > I don't recommend you to Install Termux from **Google Play Store** as it is now UNMAINTAINED
-## Screenshorts
+
+> But, I strongly recommend you to install Termux from **F-Droid** as it is the stable version of Termux
+
+## Screenshorts After installing TermuX-Custom
 ### Login Screen
 ![login](.img/IMG_20240307_234826.jpg)
 ### Booting Screen
